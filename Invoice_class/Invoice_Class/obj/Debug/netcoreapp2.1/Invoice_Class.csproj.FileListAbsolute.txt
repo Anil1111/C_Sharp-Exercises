@@ -1,0 +1,11 @@
+/Users/hunorvadasz-perhat/Projects/C#/Exercises/Invoice_Class/Invoice_Class/obj/Debug/netcoreapp2.1/Invoice_Class.csprojAssemblyReference.cache
+/Users/hunorvadasz-perhat/Projects/C#/Exercises/Invoice_Class/Invoice_Class/obj/Debug/netcoreapp2.1/Invoice_Class.csproj.CoreCompileInputs.cache
+/Users/hunorvadasz-perhat/Projects/C#/Exercises/Invoice_Class/Invoice_Class/obj/Debug/netcoreapp2.1/Invoice_Class.AssemblyInfoInputs.cache
+/Users/hunorvadasz-perhat/Projects/C#/Exercises/Invoice_Class/Invoice_Class/obj/Debug/netcoreapp2.1/Invoice_Class.AssemblyInfo.cs
+/Users/hunorvadasz-perhat/Projects/C#/Exercises/Invoice_Class/Invoice_Class/bin/Debug/netcoreapp2.1/Invoice_Class.deps.json
+/Users/hunorvadasz-perhat/Projects/C#/Exercises/Invoice_Class/Invoice_Class/bin/Debug/netcoreapp2.1/Invoice_Class.runtimeconfig.json
+/Users/hunorvadasz-perhat/Projects/C#/Exercises/Invoice_Class/Invoice_Class/bin/Debug/netcoreapp2.1/Invoice_Class.runtimeconfig.dev.json
+/Users/hunorvadasz-perhat/Projects/C#/Exercises/Invoice_Class/Invoice_Class/bin/Debug/netcoreapp2.1/Invoice_Class.dll
+/Users/hunorvadasz-perhat/Projects/C#/Exercises/Invoice_Class/Invoice_Class/bin/Debug/netcoreapp2.1/Invoice_Class.pdb
+/Users/hunorvadasz-perhat/Projects/C#/Exercises/Invoice_Class/Invoice_Class/obj/Debug/netcoreapp2.1/Invoice_Class.dll
+/Users/hunorvadasz-perhat/Projects/C#/Exercises/Invoice_Class/Invoice_Class/obj/Debug/netcoreapp2.1/Invoice_Class.pdb
